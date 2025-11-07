@@ -1,4 +1,3 @@
-# RenukakaleEcomWeb
 # RiseArc - Premium Fashion E-Commerce Website
 
 A complete Django-based e-commerce web application for RiseArc premium fashion brand with separate admin and user panels, featuring modern animations and responsive design.
@@ -123,7 +122,7 @@ The application will be available at: `http://127.0.0.1:8000/`
 
 ### For Administrators
 1. **Django Admin Panel:** `http://127.0.0.1:8000/admin/`
-   - Username: `admin`, Password: `admin`
+   - Username: `admin`, Password: `                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         `
    - Manage products, categories, users, and orders
    - Full CRUD operations on all models
 
